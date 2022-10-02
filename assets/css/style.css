@@ -717,26 +717,31 @@ ul.list-group.botones-de-edicion.list-group-horizontal{
   position: absolute;
 }
 
+/*  edición perfil  */
 ul.list-group.botones-de-edicion.edicion-perfil.list-group-horizontal{
   padding-left: 14rem;
   padding-top: 4rem;
 }
 
+/*  edición perfil nombre  */
 ul.list-group.botones-de-edicion.edicion-perfil-nombre.list-group-horizontal{
   margin-top: 1.5rem;
   padding-left: 18rem;
 }
 
+/*  edición perfil acerca de  */
 ul.list-group.botones-de-edicion.edicion-perfil-acercade.list-group-horizontal{
   margin-top: -2rem;
   padding-left: 53rem;
 }
 
+/*  edición experiencia y los demas apartados  */
 ul.list-group.botones-de-edicion.edicion-experiencia-y-otros.list-group-horizontal{
   margin-top: 0.5rem;
   padding-left: 73rem;
 }
 
+/*  edición boton de descarga */
 ul.list-group.botones-de-edicion.edicion-botondescarga.list-group-horizontal{
   padding-left: 29rem;
   margin-top: -0.5rem;
